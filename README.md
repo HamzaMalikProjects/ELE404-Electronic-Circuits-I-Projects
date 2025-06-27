@@ -1,54 +1,58 @@
-# ⚡ ELE404 – Electronic Circuits I Projects  
+# ⚡ ELE404 – Electronic Circuits I Projects
+
 **Course:** ELE404 – Electronic Circuits I  
 **Institution:** Toronto Metropolitan University  
-**Focus:** Diode Applications, Rectifiers, Voltage Regulation, Analog Signal Processing, BJT Amplifiers
+**Focus:** Diode Applications, Rectifiers, Voltage Regulation, Analog Signal Processing, BJT Amplifiers  
+
 ---
 
 ## 📘 Overview
 
-This repository contains all lab work for **ELE404 – Electronic Circuits I**, focused on the analysis, design, and implementation of fundamental analog circuits. Labs involved both theoretical analysis and practical circuit testing, reinforcing core electrical engineering principles using diodes, transistors, and passive components.
+This repository contains all lab work for **ELE404 – Electronic Circuits I**, focused on the analysis, design, and implementation of fundamental analog circuits. Labs included both theoretical design and hands-on circuit testing, reinforcing key electrical engineering concepts involving diodes, transistors, and passive components.
 
-Students performed detailed **pre-lab calculations** and **post-lab reports** for each experiment, analyzing circuit behavior, comparing theoretical and experimental results, and documenting key findings.
+Each lab includes detailed **pre-lab calculations** and **post-lab analysis**, with a strong emphasis on comparing simulated and practical results, building engineering intuition, and developing professional documentation skills.
 
-Be aware and Follow Policy 60
+> ⚠️ **Academic Integrity Notice:**  
+All content in this repository is intended for educational reference only. If you are currently enrolled in ELE404, please ensure your work complies with [Policy 60 – Academic Integrity](https://www.torontomu.ca/senate/policies/pol60.pdf).
+
 ---
 
 ## 🧪 Lab Descriptions
 
-### 🔹 Introductory Lab  
-Introduction to lab equipment, measurement techniques, and circuit safety protocols.
+- **🔹 Introductory Lab**  
+  Introduction to lab safety, measurement tools, and circuit prototyping techniques.
 
-### 🔹 Lab 1 – Diodes  
-Explored the I-V characteristics of diodes. Investigated clipping and clamping circuits.
+- **🔹 Lab 1 – Diodes**  
+  Explored diode I–V characteristics, clipping, and clamping circuits.
 
-### 🔹 Lab 2 – Voltage Regulators  
-Built and tested Zener diode-based and IC voltage regulators. Analyzed line/load regulation.
+- **🔹 Lab 2 – Voltage Regulators**  
+  Designed and tested Zener and IC-based voltage regulation circuits.
 
-### 🔹 Lab 3 – Bridge Rectifier  
-Designed full-wave bridge rectifiers with capacitive filtering. Measured ripple voltage and output efficiency.
+- **🔹 Lab 3 – Bridge Rectifier**  
+  Built full-wave rectifiers with filtering capacitors. Measured output ripple and efficiency.
 
-### 🔹 Lab 4 – Wave Shaping Circuits  
-Implemented circuits to shape input waveforms using diodes and RC networks.
+- **🔹 Lab 4 – Wave Shaping Circuits**  
+  Implemented circuits for waveform modification using diodes and RC networks.
 
-### 🔹 Lab 5 – Common Emitter Amplifier  
-Analyzed and built a CE amplifier. Measured gain, input/output impedance, and frequency response.
+- **🔹 Lab 5 – Common Emitter Amplifier**  
+  Analyzed voltage gain, input/output impedance, and frequency response.
 
-### 🔹 Lab 6 – Common Base Amplifier  
-Studied the behavior of a CB amplifier configuration. Focused on bandwidth and input resistance.
+- **🔹 Lab 6 – Common Base Amplifier**  
+  Investigated high-frequency amplifier behavior and low input resistance.
 
-### 🔹 Lab 7 – Common Collector Amplifier  
-Constructed an emitter follower. Measured voltage gain ≈1 and high input impedance.
+- **🔹 Lab 7 – Common Collector Amplifier**  
+  Constructed an emitter follower and measured unity gain and high input impedance.
 
 ---
 
 ## 🛠️ Tools & Equipment
 
-- Breadboard & power supply  
-- Function generator & oscilloscope  
-- Digital multimeter (DMM)  
-- Diodes, Zener diodes, BJTs (e.g., 2N3904)  
-- Resistors, capacitors, coupling components  
-- Simulation software: **Multisim**, **LTSpice** (optional)
+- Breadboard & Regulated Power Supply  
+- Function Generator & Oscilloscope  
+- Digital Multimeter (DMM)  
+- BJTs: e.g., 2N3904, Diodes (Standard, Zener)  
+- Passive Components: Resistors, Capacitors  
+- Simulation Software: **Multisim**, **LTSpice** (optional)
 
 ---
 
@@ -66,10 +70,19 @@ Constructed an emitter follower. Measured voltage gain ≈1 and high input imped
 ## 🎯 Learning Outcomes
 
 - Applied theoretical models to real-world analog circuits  
-- Analyzed nonlinear components like diodes and transistors  
-- Evaluated amplifier performance and signal behavior  
-- Practiced hands-on debugging and lab measurement techniques  
-- Interpreted experimental data through technical reporting
+- Analyzed non-linear components like diodes and transistors  
+- Evaluated amplifier design and signal behavior  
+- Developed lab-based testing and measurement techniques  
+- Interpreted and documented experimental findings in formal lab reports
+
+---
+
+## 👤 Author
+**Hamza Malik**  
+Computer hardware and software Engineering Student – Toronto Metropolitan University  
+ 
+
+
 
 
 
