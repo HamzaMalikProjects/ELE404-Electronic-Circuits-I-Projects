@@ -2,7 +2,6 @@
 **Course:** ELE404 – Electronic Circuits I  
 **Institution:** Toronto Metropolitan University  
 **Focus:** Diode Applications, Rectifiers, Voltage Regulation, Analog Signal Processing, BJT Amplifiers
-**Be aware and Follow Policy 60**
 ---
 
 ## 📘 Overview
@@ -11,6 +10,7 @@ This repository contains all lab work for **ELE404 – Electronic Circuits I**, 
 
 Students performed detailed **pre-lab calculations** and **post-lab reports** for each experiment, analyzing circuit behavior, comparing theoretical and experimental results, and documenting key findings.
 
+Be aware and Follow Policy 60
 ---
 
 ## 🧪 Lab Descriptions
