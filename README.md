@@ -76,10 +76,8 @@ All content in this repository is intended for educational reference only. If yo
 - Interpreted and documented experimental findings in formal lab reports
 
 ---
-
-## 👤 Author
 **Hamza Malik**  
-Computer hardware and software Engineering Student – Toronto Metropolitan University  
+Computer Hardware and Software Engineering Student – Toronto Metropolitan University  
  
 
 
