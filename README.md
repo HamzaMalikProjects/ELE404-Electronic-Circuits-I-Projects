@@ -61,7 +61,6 @@ Constructed an emitter follower. Measured voltage gain ≈1 and high input imped
 /Lab5_CommonEmitter/      – CE amplifier performance  
 /Lab6_CommonBase/         – CB amplifier characteristics  
 /Lab7_CommonCollector/    – Emitter follower analysis  
-
 ---
 
 ## 🎯 Learning Outcomes
