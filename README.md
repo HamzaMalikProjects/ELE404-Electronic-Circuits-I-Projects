@@ -2,7 +2,7 @@
 **Course:** ELE404 – Electronic Circuits I  
 **Institution:** Toronto Metropolitan University  
 **Focus:** Diode Applications, Rectifiers, Voltage Regulation, Analog Signal Processing, BJT Amplifiers
-
+**Be aware and Follow Policy 60**
 ---
 
 ## 📘 Overview
