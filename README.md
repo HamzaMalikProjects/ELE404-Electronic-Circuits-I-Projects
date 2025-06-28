@@ -52,7 +52,7 @@ All content in this repository is intended for educational reference only. If yo
 - Digital Multimeter (DMM)  
 - BJTs: e.g., 2N3904, Diodes (Standard, Zener)  
 - Passive Components: Resistors, Capacitors  
-- Simulation Software: **Multisim**, **LTSpice** (optional)
+- Simulation Software: **Multisim**, **LTSpice** 
 
 ---
 
