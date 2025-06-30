@@ -17,7 +17,7 @@ All content in this repository is intended for educational reference only. If yo
 
 ---
 
-## 🧪 Lab Descriptions
+### 🧪 Lab Descriptions
 
 - **🔹 Introductory Lab**  
   Introduction to lab safety, measurement tools, and circuit prototyping techniques.
@@ -57,6 +57,7 @@ All content in this repository is intended for educational reference only. If yo
 ---
 
 ## 📁 Folder Structure
+
 /Introductory/            – Equipment overview and lab setup  
 /Lab1_Diodes/             – Diode circuits: clipping & clamping  
 /Lab2_VoltageRegulators/  – Zener/IC regulator circuits  
